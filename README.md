@@ -1,4 +1,4 @@
-# WiFi Passview [![Developed by Waren Gonzaga](https://img.shields.io/badge/Developed%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=for-the-badge)](https://facebook.com/warengonzagaofficialpage)
+# WiFi Passview [![Developed by Waren Gonzaga](https://img.shields.io/badge/Developed%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=for-the-badge)](https://facebook.com/warengonzagaofficial)
 
 [![OS](https://img.shields.io/badge/OS-Windows-blue.svg?style=for-the-badge)](https://github.com/WarenGonzaga/Passview)
 [![Github Release](https://img.shields.io/github/release/WarenGonzaga/wifi-passview.svg?style=for-the-badge)](https://github.com/WarenGonzaga/WiFi-Passview/releases)
@@ -15,13 +15,7 @@ _**Disclaimer**: WiFi Passview is **NOT** designed for malicious use! Please use
 
 ## Featured By
 
-### KitPloit.com
-
-This project has been featured on KitPloit a popular Hacker's Tools Website. [Visit KitPloit.com](https://www.kitploit.com/2020/03/wifi-passview-v20-open-source-batch.html)
-
-### Hakin9.org
-
-This project has been featured on Hakin9 a popular hacking and cybersecurity magazine company. [Visit Hakin9.org](https://hakin9.org/wifi-passview-an-open-source-batch-script-based-wifi-passview-for-windows)
+The project has been featured in some popular cybersecurity websites such as **[KitPloit.com](https://www.kitploit.com/2020/03/wifi-passview-v20-open-source-batch.html)**, **[Hakin9.org](https://hakin9.org/wifi-passview-an-open-source-batch-script-based-wifi-passview-for-windows)**, **[Pentest Magazine](https://pentestmag.com/wifi-passview)**, and **[Hackers Guru](https://www.facebook.com/hackersguru.in/photos/rpp.102159241158334/220015989372658)**.
 
 ## How it Works
 
@@ -52,7 +46,9 @@ This simple tool offers you the following features...
 
 Download the repository and look for **``"wifi-passview-vX.X.X.bat"``** file and run it as ordinary ``*.bat`` file (_no need to run it as administrator_). All you have to do is to follow the on-screen instructions.
 
-Wanna use for WiFi Hacking? Visit this BMC [blog](https://www.buymeacoffee.com/p/40225)...
+Read the official blog on **[How to Use WiFi Passview](https://warengonzaga.com/wifi-passview-for-windows-os)**.
+
+_Wanna use for WiFi Hacking? Visit this [exclusive post from the author](https://www.buymeacoffee.com/p/40225)._
 
 ## Screenshots
 
@@ -108,6 +104,7 @@ If you're facing a problem in using WiFi Passview please let me know by creating
 * Email Options
 * CI (Travis)
 * Wireless Network Reporting
+* Extract WiFi Password Across Network (experimental)
 * More... (have suggestions? let me know!)
 
 ## Community
@@ -125,7 +122,7 @@ If you love this project please consider to support the development by means of 
 
 ## Supporters and Backers
 
-* ernest bigelow
+* ernest bigelow, nanantakeshi
 
 Wanna see your name here? [Just buy me a coffee](https://www.buymeacoffee.com/warengonzaga)!
 
@@ -137,7 +134,7 @@ WiFi Passview is licensed under MIT - <https://opensource.org/licenses/MIT>
 
 This project is created by **Waren Gonzaga** for educational purposes.
 
-* **Facebook:** <https://facebook.com/warengonzagaofficialpage>
+* **Facebook:** <https://facebook.com/warengonzagaofficial>
 * **Twitter:** <https://twitter.com/warengonzaga>
 * **Website:** <https://warengonzaga.com>
 * **Email:** dev(at)warengonzaga[.]com
